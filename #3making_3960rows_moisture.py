@@ -4,7 +4,7 @@ import numpy as np
 
 
 
-data = pd.read_csv(r"D:\#PROJECTS\Crop Recommendation System for Indian Farmerss(c)\SoilMoisture_haryana_original.csv")
+data = pd.read_csv(r"D:\GITHUBB\project-AI-Based-Crop-Predictor-for-Haryana-Farmerss(for_making_app)\SoilMoisture_haryana_original.csv")
 
 df = pd.DataFrame(data)
 
