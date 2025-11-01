@@ -1,5 +1,5 @@
 # 🌾 AI-Based Crop Predictor for Haryana Farmers
-
+### app link is also added 
 ## 📘 Overview
 The **AI-Based Crop Predictor for Haryana Farmers** is a Machine Learning project designed to help Indian farmers — especially from **Haryana** — make data-driven decisions about which crop to grow next.  
 
@@ -10,7 +10,7 @@ This project uses **AI + simple farmer inputs** to predict **best-suited crops**
 
 ## 🧑‍💻 Author
 **Developed by Yuvraj**  
-17-year-old Indian developer skilled in **Python, Machine Learning, and Data Science**.  
+Indian developer skilled in **Python, Machine Learning, and Data Science**.  
 Focused on building real-world AI projects that create meaningful social impact.
 
 ---
@@ -131,4 +131,5 @@ email -> y.india.main@gmail.com
 
 
 ```
+
 
